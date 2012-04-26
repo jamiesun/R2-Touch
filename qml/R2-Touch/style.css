@@ -1,0 +1,20 @@
+
+body{
+    background:white;
+    line-height:160%;
+    font-family:sans-serif;
+    font-size:115%;
+}
+
+h2{
+    font-size:130%;
+}
+
+p{
+    font-size:115%;
+}
+
+img{
+    max-width:340;
+    height:auto;
+}
